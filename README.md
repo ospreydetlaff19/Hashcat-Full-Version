@@ -241,4 +241,4 @@ This repository serves as the official landing page for hashcat. The software is
 **Get the most recent version of hashcat today!**
 
 ---
-**Last updated:** 2026-09-24 00:15:25 UTC
+**Last updated:** 2026-09-24 05:45:28 UTC
